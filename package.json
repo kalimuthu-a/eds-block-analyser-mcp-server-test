@@ -16,7 +16,10 @@
     "model-context-protocol",
     "ui",
     "architect",
-    "code-review",
+    "block-analyser",
+    "figma",
+    "web-page",
+    "effort-estimation",
     "prompt"
   ],
   "author": "Kalimuthu A",

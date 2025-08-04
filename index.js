@@ -10,7 +10,7 @@ import {
 // Create the server
 const server = new Server(
   {
-    name: 'ui-architect-review',
+    name: 'eds-block-analyser',
     version: '1.0.0',
   },
   {
@@ -20,7 +20,7 @@ const server = new Server(
   }
 );
 
-// Define the UI architect review prompt
+// Define the EDS Block Analyser prompt
 const EDS_BLOCK_ANALYSER_PROMPT = `### Role
 
 You are a UI Architect responsible for front-end architecture, modular design systems, and performance-optimized implementations.
